@@ -11,3 +11,4 @@ maven.zip
 .env
 
 backend/apache-maven-*/
+backend/src/main/resources/application.properties
