@@ -36,6 +36,7 @@ public class VerificationLog {
     @Column(name = "entered_date_of_birth")
     private LocalDate enteredDateOfBirth;
 
+    @Builder.Default
     @Column(name = "matched_by_dob")
     private Boolean matchedByDob = false;
 
