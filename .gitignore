@@ -9,3 +9,5 @@ dist/
 backend_log.txt
 maven.zip
 .env
+
+backend/apache-maven-*/
